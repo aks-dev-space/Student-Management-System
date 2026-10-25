@@ -50,6 +50,7 @@ class Student {
         this.marks = marks;
     }
 
+    // This method displays details of a student.
     public void displayDetails() {
         System.out.println("Id : " + this.id);
         System.out.println("Name : " + this.name);
