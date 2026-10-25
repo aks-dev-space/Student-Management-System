@@ -18,3 +18,6 @@ Updates the record of a student using ID.
 
 - **Delete student**
 Deletes record of a student using their ID.
+
+## What I Learned
+- I learned how to use git and Github to manage my Java Product.
